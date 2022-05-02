@@ -35,7 +35,7 @@
 				<tr>
 					<td colspan="2" align="center"><input type="submit" value="글수정">
 					&nbsp;&nbsp;&nbsp;&nbsp;
-					<a href="delete.do"?bid=${content_view.bid}>글삭제</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					<a href="delete.do?bid=${content_view.bid}">글삭제</a>&nbsp;&nbsp;&nbsp;&nbsp;
 					<a href="list.do">글목록보기</a></td>
 				</tr>
 			</form>
